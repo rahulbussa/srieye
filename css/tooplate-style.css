@@ -508,6 +508,10 @@ http://www.tooplate.com/view/2098-health
     position: relative;
     overflow: hidden;
     cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
   }
 
   .team-info {
