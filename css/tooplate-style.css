@@ -510,8 +510,10 @@
   }
   .profile img {
     border-radius: 100%;
-    width: 65px;
-    height: 65px;
+    width: 54px;
+    height: 54px;
+    object-fit: contain;
+    object-position: center;
     margin-right: 1em;
   }
   .profile figcaption h3 {
