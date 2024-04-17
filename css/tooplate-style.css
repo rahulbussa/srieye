@@ -1113,7 +1113,7 @@
 
   }
 
-  img.img-responsive{
+  .team-thumb img.img-responsive{
     object-fit: contain;
     object-position: center;
     height: 300px;
