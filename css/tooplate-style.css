@@ -1,10 +1,4 @@
-/*
 
-Template 2098 Health
-
-http://www.tooplate.com/view/2098-health
-
-*/
 
   @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600');
 
@@ -503,7 +497,8 @@ http://www.tooplate.com/view/2098-health
   -----------------------------------------*/
 
   .team-thumb {
-    background-color: #f9f9f9;
+    /* background-color: #f9f9f9; */
+    background-color: #fff;
     border-radius: 0 0 10px 10px;
     position: relative;
     overflow: hidden;
@@ -512,6 +507,7 @@ http://www.tooplate.com/view/2098-health
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    height: 330px;
   }
 
   .team-info {
